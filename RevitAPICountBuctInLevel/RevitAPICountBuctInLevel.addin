@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\RevitAPITrainig\RevitAPICountBuctInLevel.dll"</Assembly>
+    <AddInId>4B8A4F09-340B-477F-87D4-5B75553CF341</AddInId>
+    <FullClassName>RevitAPICountBuctInLevel.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Количество воздуховодов на активном этаже</Text>
+  </AddIn>
+</RevitAddIns>
